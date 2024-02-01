@@ -1,6 +1,6 @@
-# DYP
-this is my first repositary 
+# MYSELF
+NAME- PUSHKAR KULKARNI
 <br>
-AMIT 
+AGE- 19
 <br>
-AMIT
+SEX- MALE
